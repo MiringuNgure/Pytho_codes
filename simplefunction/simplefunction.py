@@ -14,7 +14,7 @@ def countConsonants(word):
 
 
 def countletters(word):
-   return countConsonants(word)+ countVowels(word)
+   return print (countConsonants(word)+ countVowels(word))
 
 countletters("bonjour")
 
