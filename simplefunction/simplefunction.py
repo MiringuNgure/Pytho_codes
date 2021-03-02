@@ -1,4 +1,6 @@
+import re
 
+re.compile(r[])
 def countVowels(word):
     count = 0;
     for i in range(len (word)):
