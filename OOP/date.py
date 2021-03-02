@@ -38,9 +38,3 @@ class Date:
                     self.month = 1
                     self.year += 1
         return self
-
-d1 = Date(12,-1,2020)
-d2 = Date (12,12,2010)
-print(d1)
-print (d1==d2)
-print(Date.isLeapYear(1970))
